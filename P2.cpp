@@ -8,6 +8,5 @@ int main() {
     cin >> number;
     // Your solution code goes here.
 
-
     return 0;
 }
